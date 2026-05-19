@@ -1,5 +1,5 @@
 ﻿{
-  "version":"43",
+  "version":"44",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_DandysWorld/releases/download/DandysWorld/DandysWorld_exe.zip",
   "assets":"https://github.com/idgafboom/mhk_DandysWorld/releases/download/DandysWorld/DandysWorld_assets.zip",
