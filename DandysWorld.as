@@ -1,8 +1,8 @@
 ﻿{
-  "version":"77",
+  "version":"78",
   "version_beta":"56",
   "source":"",
-  "compiled":"https://github.com/idgafboom/mhk_DandysWorld/releases/latest/download/DandysWorld_exe.zip",
+  "compiled":"https://github.com/idgafboom/mhk_DandysWorld/releases/download/DandysWorld/DandysWorld_exe.zip",
   "compiled_beta":"https://github.com/idgafboom/mhk_DandysWorld/releases/download/DandysWorld-beta/DandysWorld_exe.zip",
   "assets":"https://github.com/idgafboom/mhk_DandysWorld/releases/download/DandysWorld/DandysWorld_assets.zip",
   "webhook": "https://idgafboom--e6b522b4535a11f18d0dee650bb23af1.web.val.run",
