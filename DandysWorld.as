@@ -1,5 +1,5 @@
 ﻿{
-  "version":"67",
+  "version":"68",
   "version_beta":"56",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_DandysWorld/releases/latest/download/DandysWorld_exe.zip",
